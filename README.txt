@@ -1,0 +1,2 @@
+This repository contains miscellaneous scripts used in publication "Spatial and temporal localization of immune transcripts defines hallmarks and diversity in the tuberculosis granuloma" (https://doi.org/10.1038/s41467-019-09816-4)
+Dependency: in_situ_seq (https://github.com/Moldia/in_situ_seq)
